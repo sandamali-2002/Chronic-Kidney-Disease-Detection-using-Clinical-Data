@@ -1,1 +1,1 @@
-# Chronic-Kidney-Disease-Detection-using-Clinical-Data
+We will develop a supervised classification model to detect chronic kidney disease (CKD) from patient clinical features using publicly available clinical datasets. The project aims to compare the performance of two machine learning algorithms - Logistic Regression and Random Forest
